@@ -1,2 +1,2 @@
 # C74-Teacher-boilerplate
-boilerplate code for student
+boilerplate code for teacher
